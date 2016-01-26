@@ -1,3 +1,7 @@
+# [SimpleMovieCatalog is now in Github!](https://github.com/damienlangg/SimpleMovieCatalog)
+
+This repo is now deprecated will be merged with the official. Please use the [official repo](https://github.com/damienlangg/SimpleMovieCatalog) instead. Thanks!
+
 # Simple Movie Catalog + templates
 
 This is a modified copy of Damine Langg's [Simple Movie Catalog](http://smoviecat.sourceforge.net/) script by Roni Laukkarinen.
