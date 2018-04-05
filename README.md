@@ -6,8 +6,8 @@ This repo is now deprecated will be merged with the official. Please use the [of
 
 This is a modified copy of Damine Langg's [Simple Movie Catalog](http://smoviecat.sourceforge.net/) script by Roni Laukkarinen.
 
-![Screenshot of webapp (SimpleMovieCatalog-fork)](https://dl.dropboxusercontent.com/u/18447700/SimpleMovieCatalog-webapp.png "Screenshot")
-![Screenshot of webapp2 (SimpleMovieCatalog-fork)](https://dl.dropboxusercontent.com/u/18447700/SimpleMovieCatalog.png "Screenshot")
+![Screenshot of webapp (SimpleMovieCatalog-fork)](https://rolle.design/SimpleMovieCatalog-webapp.png "Screenshot")
+![Screenshot of webapp2 (SimpleMovieCatalog-fork)](https://rolle.design/SimpleMovieCatalog.png "Screenshot")
 
 **webapp2**-template is currently the most complete template with latest SCSS.
 
